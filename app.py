@@ -50,4 +50,7 @@ def prompt_delete_book():
     database.delete_book(name)
 
 
+menu()
+
+
 
